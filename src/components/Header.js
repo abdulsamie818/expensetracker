@@ -1,9 +1,14 @@
 import React from 'react';
 
-
-
-export const  Header = () => {
+export const Header = () => {
   return (
-   <h1>Expence Tracker App by Abdul Samie</h1>
+   <h1>
+
+    Expense Tracker by Abdul Samie
+
+   </h1>
   );
 }
+
+
+
